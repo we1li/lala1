@@ -1,8 +1,8 @@
-f=open('17_2.txt'
+f=open('17_2.txt')
 a=[]
 c=[]
 d=160
-p=7
+p=10
 for s in f.readlines():
     a.append(int(s))
 for i in range(len(a)-1):
