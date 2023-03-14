@@ -1,4 +1,4 @@
-f=open('17_2.txt')
+f=open('17_2.txt'
 a=[]
 c=[]
 d=160
